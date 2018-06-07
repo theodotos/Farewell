@@ -2,7 +2,7 @@
 
 Github is a [walled garden](https://en.wikipedia.org/wiki/Closed_platform). It is florid and fragrant but a walled garden nevertheless. We have been lured by its charms and forgot all about what lies inside its walls.
 
-Now a new Giant dwells insides the walls. And I don't want to be here anymore. I a not the only one that feels this way.
+Now a new Giant dwells insides the walls. And I don't want to be here anymore. I am not the only one that feels this way.
 
 People have been looking for alternatives ever since the announcement. I don't want to go to Gitlab.org, Bitbucket or the ill-fated Sourceforge. I prefer setting up my own code hosting platform. There are some self-hosted alternatives:
 
