@@ -18,7 +18,7 @@ I have prepared an Ansible Playbook to make it easy for all those that wish to l
 
 https://git.theo-andreou.org/Personal/ansible-deploy-gitea
 
-The problem with the self-hosted solutions though is that it makes collaboration harder. People will have to create accounts on every platform they want to contribute to or ask for help. Using OpenID will make this a bit easier but still not convinient enough. So some people have started an effort to build a protold that would provide cross-instance collaboration between the self-hosted and also the commercial solutions. They named it **gitpub** and if you interested in particupating you can find the details here:
+The problem with the self-hosted solutions though is that it makes collaboration harder. People will have to create accounts on every platform they want to contribute to or ask for help. Using OpenID will make this a bit easier but still not convenient enough. So some people have started an effort to build a protocol that would provide cross-instance collaboration between the self-hosted and also the commercial solutions. They named it **gitpub** and if you interested in participating you can find the details here:
 
 https://github.com/git-federation/gitpub
 
